@@ -8,7 +8,7 @@ Skills: JS /  / HTML / CSS/  tailwindcss/
 
 - 🔭 I’m currently working on I'm web designer & web developer 
 - 🌱 I’m currently learning react 
-- 💬 Ask me about Asiful Islam I am an expert in designing and developing any of your online flat forms 
+- 💬 Ask me about I am an expert in designing and developing any of your online flat forms 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/developertuls)  
