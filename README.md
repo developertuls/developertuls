@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is maruf
-![Maruf ](https://ibb.co.com/HsmK5ZP/maruf.png)
+![Maruf ](https://i.postimg.cc/ZYN4RB7c/621dc2e1-c92c-47f4-9a83-f07e862b63fb.png)
 
 Hey there! 👋  
 I'm an expert in designing and developing modern online platforms that are fast, responsive, and user-friendly.
