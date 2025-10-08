@@ -5,13 +5,13 @@ Hey there! 👋
 I'm an expert in designing and developing modern online platforms that are fast, responsive, and user-friendly.
 
 ### 🚀 My Skills
-💻 **Node.js**  
-⚙️ **Express.js**  
-⚛️ **React.js**  
-⏭️ **Next.js**  
 📜 **JavaScript (ES6+)**  
+💻 **Node.js**  
+⚙️ **Express.js**
 🌐 **HTML5 & CSS3**  
 🎨 **Tailwind CSS**  
+⚛️ **React.js**  
+⏭️ **Next.js**  
 🔥 **Firebase**  
 🍃 **MongoDB**
 
