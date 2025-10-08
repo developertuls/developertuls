@@ -4,15 +4,22 @@
 Hey there! 👋  
 I'm an expert in designing and developing modern online platforms that are fast, responsive, and user-friendly.
 
-### 🚀 Skills
-- React.js ⚛️  
-- JavaScript (ES6+)  
-- HTML5 & CSS3  
-- Tailwind CSS 🌬️
+### 🚀 My Skills
+💻 **Node.js**  
+⚙️ **Express.js**  
+⚛️ **React.js**  
+⏭️ **Next.js**  
+📜 **JavaScript (ES6+)**  
+🌐 **HTML5 & CSS3**  
+🎨 **Tailwind CSS**  
+🔥 **Firebase**  
+🍃 **MongoDB**
+
+---
 
 ### 👨‍💻 Currently:
-- 🔭 Working as a Web Developer  
-- 🌱 Exploring Next.js for building full-stack React apps
+🔭 Working as a **Web Developer**
+
 
 ### 📫 Reach Me:
 📧 marufbillah1295@gmail.com
